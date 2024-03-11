@@ -6,6 +6,7 @@
 
 🌱 My Skills:
 - Frontend: HTML5, CSS3, JavaScript;
+- programming languages : C , java, C++;
 - App Dev: java;
 - Other: Git;
 
