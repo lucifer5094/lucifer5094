@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankit Raj!
 
 👀 About Me:
-- I'm passionate about web development and constantly expanding my skills in this field.
+- I'm passionate about web development & App development and constantly expanding my skills in this field.
 - Currently learning Artificial intelligence and machine learning.
 
 🌱 My Skills:
