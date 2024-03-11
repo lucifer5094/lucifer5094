@@ -15,6 +15,12 @@
 - Open-source projects related to web development.
 - Innovative web applications that solve real-world problems.
 
+### Connect with me:
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ankit-raj-012903253/l]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/ankit-raj-012903253/1
+
 📫 How to Reach Me:
 - Email: ankitraj85455@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/ankit-raj-012903253/
