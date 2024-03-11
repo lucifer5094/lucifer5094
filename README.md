@@ -5,14 +5,10 @@
 - Currently learning Artificial intelligence and machine learning.
 
 🌱 My Skills:
-- Frontend: HTML5, CSS3, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Other: Git, RESTful APIs
+- Frontend: HTML5, CSS3, JavaScript;
+- App Dev: java;
+- Other: Git;
 
-💼 Projects I've Worked On:
-- [Project Name](link): Brief description of the project and your role.
-- [Project Name](link): Brief description of the project and your role.
 
 💡 I'm Interested In Collaborating On:
 - Open-source projects related to web development.
