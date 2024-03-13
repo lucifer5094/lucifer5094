@@ -35,7 +35,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...  
+- 🔭 I’m currently working on app devlopment
   
 
 - 🌱 I’m currently learning App dev and web dev  
