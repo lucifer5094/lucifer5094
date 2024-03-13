@@ -24,8 +24,10 @@
 </a>  
 <a href="https://chat.openai.com">
 <img src=https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-
+</a>  \
+<a href="[https://open.spotify.com](https://open.spotify.com/playlist/11YILjZTs8r9fGISghweFW)">
+  <img src="https://img.shields.io/badge/Spotify-My%20Favorite%20Playlist-1DB954.svg?&&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 
 
 
@@ -132,4 +134,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ljpy6po2ilqtpo2tkezmhtoyty&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ljpy6po2ilqtpo2tkezmhtoyty&cover_image=true&theme=default&show_offline=true&background_color=000d4d&interchange=true&bar_color=00a2c2&bar_color_cover=true" /></div>  
 </br>
 </div>
+
 
