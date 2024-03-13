@@ -22,9 +22,12 @@
 <a href="https://stackoverflow.com/users/23595116/lucifer" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://chat.openai.com/c/60c8baf6-edf3-4402-b7a5-b0533834907e">
+<img src=https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
+
 
 
 ### Glad to see you here!  
