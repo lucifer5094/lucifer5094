@@ -53,8 +53,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I am Ambivert
 
-- <br/>  
-
+ <br/>
+  
 ![Profile views counter](https://komarev.com/ghpvc/?username=lucifer5094&&style=flat-square)  
   
 
