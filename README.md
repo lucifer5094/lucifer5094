@@ -44,7 +44,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to App dev and web dev  
   
 
-- ⚡ Fun fact: I am Ambivert  
+- ⚡ Fun fact: I am Ambivert
+
+- <br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=lucifer5094&&style=flat-square)  
+  
+
+<br/>  
 
 
 
@@ -103,12 +110,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=lucifer5094&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
