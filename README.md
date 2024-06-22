@@ -24,7 +24,7 @@
 </a>  
 <a href="https://chat.openai.com">
 <img src=https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  \
+</a>  
 <a href="[https://open.spotify.com](https://open.spotify.com/playlist/11YILjZTs8r9fGISghweFW)">
   <img src="https://img.shields.io/badge/Spotify-My%20Favorite%20Playlist-1DB954.svg?&&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
