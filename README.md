@@ -24,7 +24,7 @@
 </a>  
 <a href="https://chat.openai.com">
 <img src=https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a>
 <a href="[https://open.spotify.com](https://open.spotify.com/playlist/11YILjZTs8r9fGISghweFW)">
   <img src="https://img.shields.io/badge/Spotify-My%20Favorite%20Playlist-1DB954.svg?&&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
@@ -37,20 +37,19 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
-
 <br/>  
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on app devlopment
+- 🔭 I’m currently working on web devlopment
   
 
-- 🌱 I’m currently learning App dev and web dev  
+- 🌱 I’m currently learning web dev  
   
 
-- ❓ Ask me about anything related to App dev and web dev  
+- ❓ Ask me about anything related to App web dev  
   
 
 - ⚡ Fun fact: I am Ambivert
