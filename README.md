@@ -2,8 +2,10 @@
 <h3 align="center">🚀 A passionate full-stack developer and AI enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=440&lines=Crafting+beautiful+code+since+2019.;Full-Stack+%7C+AI-ML+%7C+System+Design;Learning+never+stops+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Hello!+I'm+Lucifer+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;I+build+powerful+and+clean+code." alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -27,7 +29,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucifer5094&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=lucifer5094&theme=dark&hide_border=true" height="150" />
+  
+  <img src="https://streak-stats.demolab.com?user=lucifer5094&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer5094&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="150" />
 </div>
 
